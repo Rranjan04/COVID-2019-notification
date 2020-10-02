@@ -1,1 +1,1 @@
-# COVID-2019-nottifucations
+# COVID-2019-notifications
